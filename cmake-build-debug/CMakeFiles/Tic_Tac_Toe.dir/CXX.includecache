@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cyril Wu/CLionProjects/Tic-Tac-Toe/TicTacToe.cpp
+TicTacToe.h
+C:/Users/Cyril Wu/CLionProjects/Tic-Tac-Toe/TicTacToe.h
+
+C:/Users/Cyril Wu/CLionProjects/Tic-Tac-Toe/TicTacToe.h
+iostream
+-
+vector
+-
+display
+-
+
+C:/Users/Cyril Wu/CLionProjects/Tic-Tac-Toe/main.cpp
+iostream
+-
+TicTacToe.h
+C:/Users/Cyril Wu/CLionProjects/Tic-Tac-Toe/TicTacToe.h
+
